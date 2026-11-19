@@ -2,3 +2,5 @@
 __pycache__/
 *.pyc
 .cli_alarms.json
+
+.idea/
